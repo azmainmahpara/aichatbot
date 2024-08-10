@@ -1,3 +1,5 @@
+You can edit in the page.js file and also need to have your own api. the node files and next files are absent for now. will be updated later
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
